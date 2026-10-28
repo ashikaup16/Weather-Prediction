@@ -2,6 +2,10 @@
 
 A colorful, responsive weather dashboard for searching forecasts around the world. It uses the free Open-Meteo forecast, geocoding, and air-quality APIs; no API key or account is required.
 
+## Live demo
+
+[Open Sunshine Weather](https://weather-prediction-eosin.vercel.app)
+
 ## Features
 
 - Live current conditions, apparent temperature, and daily high/low
